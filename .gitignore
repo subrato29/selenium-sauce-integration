@@ -4,3 +4,4 @@ _DS.Store
 .settings
 target
 test-output
+credential.txt
