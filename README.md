@@ -1,2 +1,2 @@
 ## selenium-sauce-integration
-#### Author: Subrato Sarkar
+##### Author: Subrato Sarkar
